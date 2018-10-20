@@ -1,7 +1,7 @@
 # Variation Inverse Reinforcement Learning
 Implementation of [Adversarial Imitation Via Variational Inverse Reinforcement Learning](https://sites.google.com/view/eairl).  
 
-The code is an adaption of [inverse-rl](https://github.com/justinjfu/inverse_rl) repository which contains the implementations of state-of-the-art imitation & inverse reinforcement learning algorithms.
+The code is an adaption of [inverse-rl](https://github.com/justinjfu/inverse_rl) repository that contains the implementations of state-of-the-art imitation & inverse reinforcement learning algorithms.
 
 ## Requirements
 * [Rllab](https://github.com/openai/rllab)
