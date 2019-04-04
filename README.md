@@ -6,6 +6,7 @@ The code is an adaption of [inverse-rl](https://github.com/justinjfu/inverse_rl)
 ## Requirements
 * [Rllab](https://github.com/openai/rllab)
 	* Use our base.py by replacing ```from rllab.sampler.base import BaseSampler``` to ```from base import BaseSampler```  in the file ```sandbox/rocky/tf/samplers/vectorized_sampler.py```
+	* Include our gaussian_mlp_inverse_policy.py to the folder ```sandbox/rocky/tf/policies/```
 * [TensorFlow](https://www.tensorflow.org)
 ## Examples
 
