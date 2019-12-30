@@ -21,3 +21,16 @@ The code is an adaption of [inverse-rl](https://github.com/justinjfu/inverse_rl)
 3. Run transfer learning on disabled-ant
 	
     ```python ant_transfer_disabled.py``` 
+
+#Bibliography
+```
+@inproceedings{
+qureshi2018adversarial,
+title={Adversarial Imitation via Variational Inverse Reinforcement Learning},
+author={Ahmed H. Qureshi and Byron Boots and Michael C. Yip},
+booktitle={International Conference on Learning Representations},
+year={2019},
+url={https://openreview.net/forum?id=HJlmHoR5tQ},
+}
+```
+
