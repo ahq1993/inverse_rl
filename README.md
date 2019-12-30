@@ -22,7 +22,7 @@ The code is an adaption of [inverse-rl](https://github.com/justinjfu/inverse_rl)
 	
     ```python ant_transfer_disabled.py``` 
 
-#Bibliography
+# Bibliography
 ```
 @inproceedings{
 qureshi2018adversarial,
